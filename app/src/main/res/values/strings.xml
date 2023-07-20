@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Kampanee Usuario</string>
+    <string name="todo">todo</string>
+    <string name="buscar">buscar...</string>
+    <string name="puntuacion4_3"><font color="#FFD400">4.3</font> </string>
+    <string name="bodega_rosita">Bodega Rosita</string>
+    <string name="naranja_para_jugo">Naranja para jugo</string>
+    <string name="ubicacion_ejem">Ubicacion Ejem.</string>
+</resources>
